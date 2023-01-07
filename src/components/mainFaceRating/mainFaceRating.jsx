@@ -27,7 +27,7 @@ const MainFaceRating = () => {
   const navigate = useNavigate();
   return (
     <>
-      <h2 className="rating__title">ЗАКАЗАТЬ ОЦЕНК</h2>
+      <h2 className="rating__title">ЗАКАЗАТЬ ОЦЕНКУ</h2>
       <div className="rating__nav">
         <p className="rating__nav__title" onClick={() => filterData()}>
           Все
